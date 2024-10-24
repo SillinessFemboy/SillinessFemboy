@@ -40,7 +40,7 @@ Hi there! I'm a developer who's learning both JSON and Python!
   <a href="https://twitter.com/silliness____" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%E2%9C%A8-blue?style=flat-square&logo=twitter" />
   </a>
-  <a href="https://discord.com/invite/yourdiscord" target="_blank">
+  <a href="https://discord.com/invite/TNzDTtH2EP" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%F0%9F%92%96-purple?style=flat-square&logo=discord" />
   </a>
 </p>
